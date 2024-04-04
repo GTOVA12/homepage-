@@ -130,7 +130,7 @@ const Home = () => (
         </BioSection>
         <BioSection>
           <BioYear>2023--2025</BioYear>
-          joined the École des Mines d'Alès as part of a dual degree program within the PRISM department.
+          joined the École des Mines d&apos;Alès as part of a dual degree program within the PRISM department.
         </BioSection>
       </Section>
 
